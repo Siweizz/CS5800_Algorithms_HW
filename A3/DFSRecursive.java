@@ -8,6 +8,7 @@ public class DFSRecursive {
     protected static void dfsRecursive(Node node, HashMap<Node, LinkedList<Node>> adjVertices) {
         node.visit();
         DFSUtils.printVisited(node.id);
+        
         LinkedList<Node> allNeighbors = adjVertices.get(node);
         if (allNeighbors == null)
             return;
