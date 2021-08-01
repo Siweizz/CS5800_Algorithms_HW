@@ -8,7 +8,6 @@ public class DFSIterative {
 
     protected static void dfsWithoutRecursion(Node start, HashMap<Node, LinkedList<Node>> adjVertices) {
         // TODO: Implement iterative DFS
-
         Stack<Node> stack = new Stack<Node>();
         stack.push(start);
 
