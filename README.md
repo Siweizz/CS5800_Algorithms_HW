@@ -22,3 +22,5 @@ A4: Dijkstra and MST algorithm
 A5: Lowest Common Ancestor algorithm
 
 HW1: Quick sort
+
+HW2: Binary search and exponential search
