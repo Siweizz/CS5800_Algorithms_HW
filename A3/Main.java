@@ -42,6 +42,7 @@ public class Main {
         graph.addEdge(seven,eight);
         System.out.println("Recursive (R) or Iterative (I) or BFS (B)?");
         DFSUtils.runDFS(reader.next(".").charAt(0), seven, graph);
+        
     }
 
 }
