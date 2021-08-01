@@ -10,3 +10,7 @@ A2: Decode And Count
 * Convert String into Integer []
 * Convert Number to binary form (1's and 0's)
 * Sort and count array
+
+A3: BFS and DFS graph search
+* Breadth first search algorithm
+* Depth first search algorithm
