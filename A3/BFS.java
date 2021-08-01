@@ -16,7 +16,6 @@ public class BFS {
 
         while (!queue.isEmpty()) {
             Node currentFirst = queue.removeFirst();
-
             if (currentFirst.visited)
                 continue;
 
