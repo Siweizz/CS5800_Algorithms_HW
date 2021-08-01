@@ -6,7 +6,6 @@ public class Graph {
 
     private static HashMap<Node, LinkedList<Node>> adjVertices;
 
-
     public static HashMap<Node, LinkedList<Node>> getAdjVertices() {
         return adjVertices;
     }
