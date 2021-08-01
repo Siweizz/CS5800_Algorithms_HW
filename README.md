@@ -20,3 +20,5 @@ A4: Dijkstra and MST algorithm
 * MST algorithm
 
 A5: Lowest Common Ancestor algorithm
+
+HW1: Quick sort
