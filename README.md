@@ -14,3 +14,9 @@ A2: Decode And Count
 A3: BFS and DFS graph search
 * Breadth first search algorithm
 * Depth first search algorithm
+
+A4: Dijkstra and MST algorithm
+* Dijkstra's algorithm
+* MST algorithm
+
+A5: Lowest Common Ancestor algorithm
